@@ -26,6 +26,7 @@ export default function Queries() {
 
             <div className="font-primary text-5xl text-dark dark:text-light ">
                 Queries
+                <div className="font-secondary text-sm text-zinc-700">You got questions? We got you.</div>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-x-24 gap-y-12 justify-between">

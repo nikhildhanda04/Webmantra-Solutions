@@ -7,6 +7,7 @@ export default function Features() {
 
             <div className="font-primary text-5xl">
             Features
+            <div className="font-secondary text-sm text-zinc-700">Some of what we offer.</div>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-16">

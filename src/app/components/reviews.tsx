@@ -37,12 +37,13 @@ export default function ReviewsCarousel() {
       <div className="flex flex-col gap-18 z-10 py-28 px-4 md:px-52">
         <div className="font-primary text-5xl font-medium text-left text-zinc-800">
           Trusted by Our Clients
+          <div className="font-secondary text-sm text-zinc-700">Top notch reviews from our clients.</div>
         </div>
         <div className="relative w-full overflow-hidden text-neutral-500 py-8">
           <motion.div
             initial={{ opacity: 0, y: 30, filter: "blur(10px)" }}
             whileInView={{ opacity: 1, y: 0, filter: "blur(0px)" }}
-            transition={{ duration: 0.7 }}
+            transition={{ duration: 0. }}
             className="absolute left-0 top-0 bottom-0 w-32 z-10 bg-gradient-to-r from-white to-transparent"
           />
           <motion.div

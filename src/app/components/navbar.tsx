@@ -9,7 +9,7 @@ export default function Navbar(){
 
             <div className="hidden md:flex flex-row gap-8 font-secondary">
                  <div className="hover:text-primary transition-all duration-300 hover:underline underline-offset-3">Features</div>
-                 <div className="hover:text-primary transition-all duration-300 hover:underline underline-offset-3">About Us</div>
+                 <div className="hover:text-primary transition-all duration-300 hover:underline underline-offset-3">Workflow</div>
                  <div className="hover:text-primary transition-all duration-300 hover:underline underline-offset-3">Faq</div>
 
             </div>
