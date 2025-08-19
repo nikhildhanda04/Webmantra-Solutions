@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 
 export default function Carousel() {
       const techStack = [
-    { title: "React" },
+    { title: "Key Success Patners" },
     { title: "Nextjs" },
     { title: "Express" },
     { title: "Github" },
@@ -20,9 +20,9 @@ export default function Carousel() {
 
     return(
         <>
-        <div className="flex flex-col gap-6 z-99 px-36 py-44">
+        <div className="flex flex-col gap-6 z-99 px-36 pt-68 pb-24">
 
-            <div className="font-[poppins] text-2xl font-medium text-center">
+            <div className="font-[poppins] text-3xl  font-medium text-center">
                 Trusted by 50+ Companies
             </div>
 

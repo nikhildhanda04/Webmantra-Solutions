@@ -1,2 +1,12 @@
 @import "tailwindcss";
 
+@theme{
+    --color-primary: #6366f1;
+    --color-light: #F9FaF8;
+    --color-dark: #080808;
+    --font-primary: "Fraunces", sans-serif;
+    --font-secondary: "Poppins", sans-serif;   
+    --font-para: "DM_Sans", sans-serif; 
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
