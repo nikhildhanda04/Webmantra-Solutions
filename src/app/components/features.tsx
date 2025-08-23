@@ -12,7 +12,7 @@ export default function Features() {
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-16">
 
-                <div className="flex flex-col gap-6 border border-stone-300 px-6 py-8 rounded-xl shadow-[0px_3px_7px_rgba(0,0,0,0.17)]">
+                <div className="flex flex-col gap-6 border border-stone-300 px-6 py-8 rounded-xl hover:shadow-[3px_6px_9px_rgba(0,0,0,0.3)] transition-all duration-200 ease-easeIn shadow-[0px_3px_7px_rgba(0,0,0,0.17)]">
                     <div className="broder flex flex-row ml-auto font-primary pr-10 font-bold text-6xl border-b-stone-200 ">
                         .01
                     </div>  
@@ -24,7 +24,7 @@ export default function Features() {
                     </div>
                 </div>
 
-                                <div className="flex flex-col gap-6 border border-stone-300 px-6 py-8 rounded-xl shadow-[0px_3px_7px_rgba(0,0,0,0.17)]">
+                                <div className="flex flex-col gap-6 border border-stone-300 px-6 py-8 rounded-xl hover:shadow-[3px_6px_9px_rgba(0,0,0,0.3)] transition-all duration-200 ease-easeIn shadow-[0px_3px_7px_rgba(0,0,0,0.17)]">
                     <div className="broder flex flex-row ml-auto font-primary pr-10 font-bold text-6xl border-b-stone-200 ">
                         .02
                     </div>  
@@ -36,7 +36,7 @@ export default function Features() {
                     </div>
                 </div>
 
-                                <div className="flex flex-col gap-6 border border-stone-300 px-6 py-8 rounded-xl shadow-[0px_3px_7px_rgba(0,0,0,0.17)]">
+                                <div className="flex flex-col gap-6 border border-stone-300 px-6 py-8 rounded-xl hover:shadow-[3px_6px_9px_rgba(0,0,0,0.3)] transition-all duration-200 ease-easeIn shadow-[0px_3px_7px_rgba(0,0,0,0.17)]">
                     <div className="broder flex flex-row ml-auto font-primary pr-10 font-bold text-6xl border-b-stone-200 ">
                         .03
                     </div>  
@@ -48,7 +48,7 @@ export default function Features() {
                     </div>
                 </div>
 
-                                <div className="flex flex-col gap-6 border border-stone-300 px-6 py-8 rounded-xl shadow-[0px_3px_7px_rgba(0,0,0,0.17)]">
+                                <div className="flex flex-col gap-6 border border-stone-300 px-6 py-8 rounded-xl hover:shadow-[3px_6px_9px_rgba(0,0,0,0.3)] transition-all duration-200 ease-easeIn shadow-[0px_3px_7px_rgba(0,0,0,0.17)]">
                     <div className="broder flex flex-row ml-auto font-primary pr-10 font-bold text-6xl border-b-stone-200 ">
                         .04
                     </div>  
@@ -60,7 +60,7 @@ export default function Features() {
                     </div>
                 </div>
 
-                                <div className="flex flex-col gap-6 border border-stone-300 px-6 py-8 rounded-xl shadow-[0px_3px_7px_rgba(0,0,0,0.17)]">
+                                <div className="flex flex-col gap-6 border border-stone-300 px-6 py-8 rounded-xl hover:shadow-[3px_6px_9px_rgba(0,0,0,0.3)] transition-all duration-200 ease-easeIn shadow-[0px_3px_7px_rgba(0,0,0,0.17)]">
                     <div className="broder flex flex-row ml-auto font-primary pr-10 font-bold text-6xl border-b-stone-200 ">
                         .05
                     </div>  
@@ -72,7 +72,7 @@ export default function Features() {
                     </div>
                 </div>
 
-                                <div className="flex flex-col gap-6 border border-stone-300 px-6 py-8 rounded-xl shadow-[0px_3px_7px_rgba(0,0,0,0.17)]">
+                                <div className="flex flex-col gap-6 border border-stone-300 px-6 py-8 rounded-xl hover:shadow-[3px_6px_9px_rgba(0,0,0,0.3)] transition-all duration-200 ease-easeIn shadow-[0px_3px_7px_rgba(0,0,0,0.17)]">
                     <div className="broder flex flex-row ml-auto font-primary pr-10 font-bold text-6xl border-b-stone-200 ">
                         .06
                     </div>  

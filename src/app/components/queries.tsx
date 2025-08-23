@@ -4,20 +4,20 @@ export default function Queries() {
 
     const queries = [
         {
-            question: "What is Next Hire?",
-            answer: `Next Hire is an AI-powered job search platform that helps you find your dream job by matching and applying your for jobs best suited for you based on your resume and preferences.`
+            question: "What is Web Mantra Solutions?",
+            answer: `It is a web startup that help you build your digital presence with a professional website. We specialize in creating custom websites tailored to your business needs, ensuring a seamless user experience and modern design.`
         },
         {
-            question: "How does AI help in job search?",
-            answer: `AI automates the process of matching your resume with job listings, analyzing your skills and preferences to suggest the best-fit roles. It also provides personalized job recommendations and insights to enhance your job search experience.`
+            question: "Why do I need a website?",
+            answer: `A website is essential for establishing your online presence, showcasing your products or services, and reaching a wider audience. It acts as a digital storefront that is accessible 24/7, helping you attract and retain customers effectively.`
         },
         {
-            question: "What types of jobs can I find?",
-            answer: `You can find a wide range of job listings across various industries and roles, including full-time, part-time, internships, and remote positions. The platform is designed to cater to diverse job seekers and employers.`
+            question: "How long does it take to build a website?",
+            answer: `The timeline for building a website varies based on complexity and requirements. Generally, we aim to deliver a basic website within 2-4 weeks, while more complex projects may take longer. We will provide a detailed timeline during the initial consultation.`
         },
         {
-            question: "Is my data secure?",
-            answer: `Yes, your data is secure with Next Hire. We prioritize user privacy and employ industry-standard security measures to protect your personal information. Your resume and job preferences are kept confidential and are only used to enhance your job search experience.`
+            question: "Will my website be unique?",
+            answer: `Yes, we create custom websites tailored to your specific needs and preferences. Each website we build is unique, reflecting your brand identity and business goals. We do not use templates, ensuring that your website stands out from the competition.`
         }
     ]
     return(

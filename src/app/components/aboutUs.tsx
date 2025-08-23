@@ -11,10 +11,10 @@ export default function AboutUs() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-y-20 gap-x-32 relative">
 
           <div className="hidden md:block md:absolute left-1/2 transform -translate-x-1/2 h-full w-1 bg-zinc-300 z-0">
-            <div className="absolute top-[4rem] left-1/2 transform -translate-x-1/2 w-4 h-4 bg-primary rounded-full"></div>
-            <div className="absolute top-[16rem] left-1/2 transform -translate-x-1/2 w-4 h-4 bg-primary rounded-full"></div>
-            <div className="absolute top-[28rem] left-1/2 transform -translate-x-1/2 w-4 h-4 bg-primary rounded-full"></div>
-            <div className="absolute top-[40rem] left-1/2 transform -translate-x-1/2 w-4 h-4 bg-primary rounded-full"></div>
+            <div className="absolute top-[4rem] left-1/2 transform -translate-x-1/2 w-4 h-4 bg-primary animate-pulse rounded-full"></div>
+            <div className="absolute top-[16rem] left-1/2 transform -translate-x-1/2 w-4 h-4 bg-primary animate-pulse rounded-full"></div>
+            <div className="absolute top-[28rem] left-1/2 transform -translate-x-1/2 w-4 h-4 bg-primary animate-pulse rounded-full"></div>
+            <div className="absolute top-[40rem] left-1/2 transform -translate-x-1/2 w-4 h-4 bg-primary animate-pulse rounded-full"></div>
           </div>
 
           <div className="font-secondary text-3xl hover:text-primary transition-all duration-300 z-10">

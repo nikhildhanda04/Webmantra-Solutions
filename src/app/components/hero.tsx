@@ -1,3 +1,8 @@
+'use client';
+
+import { ChartNoAxesCombined as Chart } from 'lucide-react'
+import { motion } from 'framer-motion'
+
 export default function Hero(){
     return(
         <>
@@ -21,8 +26,22 @@ export default function Hero(){
             </div>
 
             <div className="text-sm md:text-lg font-para text-stone-400 md:px-96 text-center">
-                Empowering Your Success with Cutting-Edge SaaS Solutions Built for Scalability, Efficiency, and Growth.
+                Empowering your business with a stunning website that captivates your audience and drives results. <br />
+                Our team of experts crafts custom solutions tailored to your unique needs, ensuring a seamless online presence that stands out in the digital landscape.
             </div>
+
+        <motion.div 
+        animate={{
+          y: [0, -10, 0]
+        }}
+        transition={{
+          duration: 2,
+          repeat: Infinity,
+          ease: "easeInOut"
+        }}
+        className='relative bg-gradient-to-tl left-40 from-[#6366f1]/[0.3] to-[#ffffff] rounded-3xl p-5 shadow-[0px_3px_18px_1px_rgba(4,4,4,0.2)] '>
+            <Chart/>
+        </motion.div>
         </div>
 
 </div>
